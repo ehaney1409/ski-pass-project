@@ -1,2 +1,2 @@
-#Ski Pass Project
-The goal of this project will be to use 
+# Ski Pass Project
+The goal of this project will be to evaluate if it is worth purchasing an Ikon or Epic Pass for the 2022 ski season. Using three tables from data the was scrapped from OnTheSnow.com, the data from the tables was preprocessed and cleansed using Python. Then, a database was created in Postgres using the tables by manually writing SQL and then executing commands in psql to copy data to those tables. Finally, Postgres will be connected to Tableau to help tell the story of whether it is worth purchasing an Ikon or Epic Pass.
